@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">AlcoolOuGasolina</string>
+    <string name="calculateButton">Calculate</string>
+    <string name="gasolineInputText">Preço gasolina ex: 4.20</string>
+    <string name="alcoholInputText">Preço álcool ex: 2.53</string>
+    <string name="text">Saiba qual a melhor opção de abastecimento para seu carro</string>
+    <string name="logoDescription">aplication logo</string>
+    <string name="resultText">Resultado</string>
+</resources>
